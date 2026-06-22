@@ -1,0 +1,16 @@
+venv/
+env/
+.env
+*.pyc
+__pucache__/
+
+*.log
+*.tmp
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+.DS_Store
+Thumbs.db
